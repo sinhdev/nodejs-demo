@@ -1,0 +1,9 @@
+console.log(__dirname);
+console.log(__filename)
+console.log(process.pid)
+console.log(process.env)
+console.log(process.env.PWD)
+console.log(process.platform)
+console.log(process.versions)
+console.log(process.cwd)
+console.log(process.uptime())
